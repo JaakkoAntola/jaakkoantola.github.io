@@ -67,7 +67,6 @@ main {
     margin-bottom: 1.5rem;
 }
 
-/* Rest of your CSS code for other pages */
 .resume h1, .blog h1 {
     font-size: 2rem;
     margin-bottom: 1rem;
@@ -191,25 +190,22 @@ footer {
     margin: 0 auto;
 }
 
-/* Add this to your existing CSS file */
 .mobile-game-heading {
     text-align: center;
 }
 
-/* Add these rules to your existing styles.css file */
 .gallery,
 .audio-gallery {
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
-    justify-content: center; /* Add this line to center the content */
+    justify-content: center; 
 }
 
 .audio-item {
     text-align: center;
 }
 
-/* Add this to your existing CSS file */
 .portfolio {
     text-align: center;
 }
